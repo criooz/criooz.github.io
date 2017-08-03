@@ -23,4 +23,3 @@ There is not a day of my life that passes without sacrifice, commitment, perseve
         <div class="span5">
         <img src="../assets/pics/b1d752e6-41f5-4e76-9a16-446ccca63b88-large.jpg">
              
-</div>
