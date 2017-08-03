@@ -14,10 +14,12 @@ I always apply my tried and tested skills to the challenges of today's ever-chan
 
 There is not a day of my life that passes without sacrifice, commitment, perseverance and the determination to do better.
 
+
+
 ---
 
 <div class="container">
-<h4><a name="From London"></a>contact</h4>
+<h4><a name="Picture"></a>contact</h4>
 
         <div class="span5">
         <img src="../assets/pics/b1d752e6-41f5-4e76-9a16-446ccca63b88-large.jpg">
